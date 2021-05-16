@@ -1,4 +1,7 @@
 ### Hi, I'm Hiten 👋
+![github_bio](https://user-images.githubusercontent.com/48350702/118401287-be524b00-b682-11eb-86a7-2e8501961e7d.png)
+
+
 
 <!--
 **Hiten24/hiten24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
