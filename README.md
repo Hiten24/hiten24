@@ -3,6 +3,7 @@
 ### A little more about me...
 ![github_bio](https://user-images.githubusercontent.com/48350702/118401287-be524b00-b682-11eb-86a7-2e8501961e7d.png)
 
+![Dishant's Stats](https://github-readme-stats.vercel.app/api?username=Hiten24&show_icons=true&hide_border=true&theme=aura)
 
 ## Connect with me 🌏:
 [<img src="https://user-images.githubusercontent.com/48350702/118431091-38221d00-b6f3-11eb-93ea-c1c7ef776944.png"/>][instagram]&nbsp;&nbsp;
