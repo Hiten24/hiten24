@@ -16,6 +16,9 @@
 [facebook]: https://www.facebook.com/hiten.chawda.90
 [linkedin]: https://www.linkedin.com/in/hiten-chawda-9b8b511a2
 [twitter]: https://twitter.com/ChawdaHiten
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiten24&theme=dark" alt="hiten24" /> -->
+
 <!--
 **Hiten24/hiten24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
