@@ -7,6 +7,8 @@
 
 [![Hiten Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiten24&theme=dark)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=Hiten24)
+
 ## Connect with me 🌏:
 [<img src="https://user-images.githubusercontent.com/48350702/118431091-38221d00-b6f3-11eb-93ea-c1c7ef776944.png"/>][instagram]&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/48350702/118431185-60118080-b6f3-11eb-8b35-158b037522d0.png"/>][facebook]&nbsp;&nbsp;
