@@ -1,11 +1,13 @@
+
+
 ## Hi, I'm Hiten 👋
 
 ### A little more about me...
 ![github_bio](https://user-images.githubusercontent.com/48350702/118401287-be524b00-b682-11eb-86a7-2e8501961e7d.png)
 
-![Hiten's Stats](https://github-readme-stats.vercel.app/api?username=Hiten24&show_icons=true&hide_border=true&theme=aura)
-
-[![Hiten Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiten24&theme=dark)](https://git.io/streak-stats)
+------------
+| ![Hiten's Stats](https://github-readme-stats.vercel.app/api?username=Hiten24&show_icons=true&hide_border=true&theme=aura) | [![Hiten Streak](https://streak-stats.demolab.com/?user=Hiten24&theme=dark)](https://git.io/streak-stats)  |
+|:-----|---------|
 
 ![](https://komarev.com/ghpvc/?username=Hiten24)
 
